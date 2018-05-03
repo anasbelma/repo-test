@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+.idea/
+build.js
+app/temp
+cypress/cypress/fixtures
+cypress/cypress/support
